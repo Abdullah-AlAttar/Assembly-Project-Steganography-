@@ -1,0 +1,9 @@
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\bin\Debug\AssemblyProject.exe.config
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\obj\Debug\AssemblyProject.csprojResolveAssemblyReference.cache
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\obj\Debug\AssemblyProject.Form1.resources
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\obj\Debug\AssemblyProject.Properties.Resources.resources
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\obj\Debug\AssemblyProject.csproj.GenerateResource.Cache
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\bin\Debug\AssemblyProject.exe
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\bin\Debug\AssemblyProject.pdb
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\obj\Debug\AssemblyProject.exe
+C:\Users\Millennium\Source\Repos\ImageQuantization\AssemblyProject\AssemblyProject\obj\Debug\AssemblyProject.pdb

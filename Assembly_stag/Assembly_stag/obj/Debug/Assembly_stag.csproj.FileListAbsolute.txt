@@ -1,0 +1,20 @@
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe.config
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.pdb
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Form1.resources
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Pop_out.resources
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Properties.Resources.resources
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.csproj.GenerateResource.Cache
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.exe
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.pdb
+C:\Users\AAI\Desktop\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.csprojResolveAssemblyReference.cache
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe.config
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.exe
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.pdb
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.exe
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\bin\Debug\Assembly_stag.pdb
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.csprojResolveAssemblyReference.cache
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Form1.resources
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Pop_out.resources
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.Properties.Resources.resources
+C:\Users\Millennium\Desktop\Assembly Project\Assembly_stag\Assembly_stag\obj\Debug\Assembly_stag.csproj.GenerateResource.Cache

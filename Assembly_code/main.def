@@ -1,0 +1,8 @@
+EXPORTS		
+ReadMessage @1
+ReadPixels @2
+ENCRYPT @3
+SaveChanges @4
+Decrypt @5
+Encrypt_funs @6
+Decrypt_funs @7
